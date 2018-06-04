@@ -1,4 +1,4 @@
 # xmakinaskeletonpreassembler
 A skeleton of a preassembler
 
-Code not for re-use, for example only. May not be completely bug-free or useful.
+Code NOT for reuse under any license, it is for example only. No warranties or guarantees provided with the code. Use at own risk.
